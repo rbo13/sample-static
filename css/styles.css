@@ -1,0 +1,13 @@
+#bg-image {
+  background: url("../images/bright_image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-small-image {
+  border: 2px solid black;
+  padding: 25px;
+  background: url("../images/catalina-small.jpeg");
+  background-repeat: no-repeat;
+  background-size: 300px 100px;
+}
